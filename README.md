@@ -1,6 +1,6 @@
 # birthday
 
-ask the user for their birthday, montha and year
+ask the user for their birthday, month and year
 
 *commit/push
 *trade
